@@ -83,6 +83,40 @@
     //     else if (month < 13) {
     //         console.log(`${name}, bạn sinh vào mùa đông `)
     //     }
-    
 
-    
+
+
+    // let a = prompt("nhập vào số a");
+    // let b = prompt("nhập vào số b");
+    // let c = prompt("nhập vào số c");
+    // let delta = b*b - 4*a*c;
+
+    // if(delta<0) {
+    //     console.log("phương trình vô nghiệm")
+    // } 
+    // else if (delta == 0) {
+    //     x = -b/(2*a);
+    //     console.log("phương trình có một nghiệm")
+    // }
+    // else if (delta > 0) {
+    //     let x1 = (-b + Math.sqrt(delta))/(2*a);
+    //     let x2 = (-b - Math.sqrt(delta))/(2*a);
+    //     console.log(x1);
+    //     console.log(x2);
+    // }    
+
+
+
+            // let randomString = prompt("nhập");
+            // console.log(randomString[0]);
+            // console.log(randomString[1]);
+            // console.log(randomString[2]);
+            // console.log(randomString[3]);
+            // console.log(randomString[4]);
+            // console.log(randomString[5]);
+            // console.log(randomString[6]);
+            // console.log(randomString[7]);
+            // console.log(randomString[8]);
+            // console.log(randomString[9]);
+            // console.log(randomString[10]);
+            // // console.log(randomString.length);
